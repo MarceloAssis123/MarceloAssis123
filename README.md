@@ -27,7 +27,7 @@ Sou apaixonado por tecnologia, inovação e pela criação de soluções intelig
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloAssis123&layout=compact&langs_count=7&theme=gotham"/>
 </div>
 
-## 🚀 Tecnologias e Ferramentas
+## 💡 Tecnologias e Ferramentas
 
 **Linguagens & Frameworks:**
 <div style="display: inline-block">
@@ -64,6 +64,12 @@ Sou apaixonado por tecnologia, inovação e pela criação de soluções intelig
 </div>
 <br>
 
+## 🚀 Minhas Empresas
+
+- [**PhotoGen**](https://photogen.com.br)
+- [**AI ENEM**](https://aienem.com)
+- [**Interior AI**](https://interiorai.com.br)
+- [**Papagaio AI**](https://papagaioai.com)
 
 ## 📬 Conecte-se comigo
 <div> 
